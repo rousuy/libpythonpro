@@ -7,9 +7,9 @@ Link para o curso [Python Pro] (https://www.python.pro.br/)
 
 [![Build Status](https://travis-ci.org/MarcosDihl/libpythonpro.svg?branch=main)](https://travis-ci.org/MarcosDihl/libpythonpro)
 
-[! [Updates] (https://pyup.io/repos/github/MarcosDihl/libpythonpro/shield.svg)] (https://pyup.io/repos/github/MarcosDihl/libpythonpro/)  
+[![Updates](https://pyup.io/repos/github/MarcosDihl/libpythonpro/shield.svg)](https://pyup.io/repos/github/MarcosDihl/libpythonpro/)  
 
-[! [Python 3] (https://pyup.io/repos/github/MarcosDihl/libpythonpro/python-3-shield.svg)] (https://pyup.io/repos/github/MarcosDihl/libpythonpro/)
+[![Python 3](https://pyup.io/repos/github/MarcosDihl/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/MarcosDihl/libpythonpro/)
 
 Suportada versão 3 de Python
 
