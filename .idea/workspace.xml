@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="583a7ca7-1010-48e6-908c-8248a501b2af" name="Default Changelist" comment="erro idna 3.1&#10;&#10;close #16">
-      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpythonpro/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/libpythonpro/__init__.py" afterDir="false" />
-    </list>
+    <list default="true" id="583a7ca7-1010-48e6-908c-8248a501b2af" name="Default Changelist" comment="criação setup.py&#10;&#10;close #19" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -300,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613664521990</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="criação setup.py&#10;&#10;close #19">
+      <created>1613677427669</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1613677427669</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -338,6 +341,7 @@
     <MESSAGE value="erro idna" />
     <MESSAGE value="erro idna 2.9" />
     <MESSAGE value="erro idna 3.1&#10;&#10;close #16" />
-    <option name="LAST_COMMIT_MESSAGE" value="erro idna 3.1&#10;&#10;close #16" />
+    <MESSAGE value="criação setup.py&#10;&#10;close #19" />
+    <option name="LAST_COMMIT_MESSAGE" value="criação setup.py&#10;&#10;close #19" />
   </component>
 </project>
