@@ -19,8 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="583a7ca7-1010-48e6-908c-8248a501b2af" name="Default Changelist" comment="erro idna 2.9">
+    <list default="true" id="583a7ca7-1010-48e6-908c-8248a501b2af" name="Default Changelist" comment="erro idna 3.1&#10;&#10;close #16">
+      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libpythonpro/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/libpythonpro/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +37,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1nq43bsySJ7Ndl7xwa9DvWZOBIN" />
@@ -286,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613609716771</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="erro idna 3.1&#10;&#10;close #16">
+      <created>1613664521990</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1613664521990</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -323,6 +337,7 @@
     <MESSAGE value="corrigindo erro pyup.yml 2" />
     <MESSAGE value="erro idna" />
     <MESSAGE value="erro idna 2.9" />
-    <option name="LAST_COMMIT_MESSAGE" value="erro idna 2.9" />
+    <MESSAGE value="erro idna 3.1&#10;&#10;close #16" />
+    <option name="LAST_COMMIT_MESSAGE" value="erro idna 3.1&#10;&#10;close #16" />
   </component>
 </project>
