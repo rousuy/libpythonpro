@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="583a7ca7-1010-48e6-908c-8248a501b2af" name="Default Changelist" comment="corrigindo erro pyup.yml 2">
+    <list default="true" id="583a7ca7-1010-48e6-908c-8248a501b2af" name="Default Changelist" comment="erro idna">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -272,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613608148619</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="erro idna">
+      <created>1613609083057</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1613609083057</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -307,6 +314,7 @@
     <MESSAGE value="configurando arquivo pyup.yml" />
     <MESSAGE value="corrigindo erro pyup.yml" />
     <MESSAGE value="corrigindo erro pyup.yml 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="corrigindo erro pyup.yml 2" />
+    <MESSAGE value="erro idna" />
+    <option name="LAST_COMMIT_MESSAGE" value="erro idna" />
   </component>
 </project>
