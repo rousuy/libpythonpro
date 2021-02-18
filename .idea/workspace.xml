@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="583a7ca7-1010-48e6-908c-8248a501b2af" name="Default Changelist" comment="configurando arquivo pyup.yml">
+    <list default="true" id="583a7ca7-1010-48e6-908c-8248a501b2af" name="Default Changelist" comment="corrigindo erro pyup.yml 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -258,7 +258,21 @@
       <option name="project" value="LOCAL" />
       <updated>1613606946022</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="corrigindo erro pyup.yml">
+      <created>1613607841805</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1613607841805</updated>
+    </task>
+    <task id="LOCAL-00025" summary="corrigindo erro pyup.yml 2">
+      <created>1613608148619</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1613608148619</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -291,6 +305,8 @@
     <MESSAGE value="Integrado com PyUp 3" />
     <MESSAGE value="Integrado com PyUp 3&#10;&#10;close #2" />
     <MESSAGE value="configurando arquivo pyup.yml" />
-    <option name="LAST_COMMIT_MESSAGE" value="configurando arquivo pyup.yml" />
+    <MESSAGE value="corrigindo erro pyup.yml" />
+    <MESSAGE value="corrigindo erro pyup.yml 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="corrigindo erro pyup.yml 2" />
   </component>
 </project>
