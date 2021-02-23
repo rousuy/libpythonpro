@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="583a7ca7-1010-48e6-908c-8248a501b2af" name="Default Changelist" comment="criação setup.py&#10;&#10;close #19">
+    <list default="true" id="583a7ca7-1010-48e6-908c-8248a501b2af" name="Default Changelist" comment="Publicação no PyPi.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -321,7 +320,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613677697966</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Publicação no PyPi.">
+      <created>1614113665582</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1614113665582</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -360,6 +366,7 @@
     <MESSAGE value="erro idna 2.9" />
     <MESSAGE value="erro idna 3.1&#10;&#10;close #16" />
     <MESSAGE value="criação setup.py&#10;&#10;close #19" />
-    <option name="LAST_COMMIT_MESSAGE" value="criação setup.py&#10;&#10;close #19" />
+    <MESSAGE value="Publicação no PyPi." />
+    <option name="LAST_COMMIT_MESSAGE" value="Publicação no PyPi." />
   </component>
 </project>
